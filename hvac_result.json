@@ -1,0 +1,42 @@
+{
+  "floor_name": "Multi-Room Office (16\u00d720)",
+  "floor_shape": [
+    16,
+    20
+  ],
+  "walkable_cells": 231,
+  "hvac_units_required": 7,
+  "coverage_percent": 97.4,
+  "unit_positions": [
+    {
+      "row": 2,
+      "col": 11
+    },
+    {
+      "row": 9,
+      "col": 13
+    },
+    {
+      "row": 5,
+      "col": 3
+    },
+    {
+      "row": 12,
+      "col": 4
+    },
+    {
+      "row": 4,
+      "col": 1
+    },
+    {
+      "row": 10,
+      "col": 18
+    },
+    {
+      "row": 2,
+      "col": 14
+    }
+  ],
+  "cooling_radius": 5,
+  "episodes_trained": 400
+}
